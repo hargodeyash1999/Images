@@ -9,3 +9,4 @@ assessment images
 ![7-introarithmetic](https://github.com/hargodeyash1999/Images/assets/138023063/b1d946eb-2792-474b-8a3b-9fadf69e8f4b)
 ![8-multiplyandassintegers](https://github.com/hargodeyash1999/Images/assets/138023063/dc1cac43-2e97-4d20-8c1f-0ff106c74596)
 ![9- hurstominutes](https://github.com/hargodeyash1999/Images/assets/138023063/a041ec1b-96e9-4c05-a2d6-72a0695d508e)
+![10- objectives](https://github.com/hargodeyash1999/Images/assets/138023063/f751e75a-e9ef-46d0-9bbd-95227e9b87c1)
