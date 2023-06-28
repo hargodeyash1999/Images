@@ -7,3 +7,4 @@ assessment images
 ![5- dslibraries](https://github.com/hargodeyash1999/Images/assets/138023063/2ed3e1c8-d398-4a83-88f9-a639705f36d2)
 ![6- dstools](https://github.com/hargodeyash1999/Images/assets/138023063/59e1131d-abeb-4bef-9554-8312874e972f)
 ![7-introarithmetic](https://github.com/hargodeyash1999/Images/assets/138023063/b1d946eb-2792-474b-8a3b-9fadf69e8f4b)
+![8-multiplyandassintegers](https://github.com/hargodeyash1999/Images/assets/138023063/dc1cac43-2e97-4d20-8c1f-0ff106c74596)
