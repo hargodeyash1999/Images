@@ -8,3 +8,4 @@ assessment images
 ![6- dstools](https://github.com/hargodeyash1999/Images/assets/138023063/59e1131d-abeb-4bef-9554-8312874e972f)
 ![7-introarithmetic](https://github.com/hargodeyash1999/Images/assets/138023063/b1d946eb-2792-474b-8a3b-9fadf69e8f4b)
 ![8-multiplyandassintegers](https://github.com/hargodeyash1999/Images/assets/138023063/dc1cac43-2e97-4d20-8c1f-0ff106c74596)
+![9- hurstominutes](https://github.com/hargodeyash1999/Images/assets/138023063/a041ec1b-96e9-4c05-a2d6-72a0695d508e)
